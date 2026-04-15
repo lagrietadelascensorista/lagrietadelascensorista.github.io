@@ -12,7 +12,7 @@
 // ─────────────────────────────────────────────────
 
 window.DRIVE_CONFIG = {
-  apiKey:     '',   // Ej: 'AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-  folderId:   '',   // Ej: '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74'
+  apiKey:     '',   // Ej: 'AIzaSyBZtopBU4WTxX0laxV_97niIcEdCphBoxY'
+  folderId:   '',   // Ej: '1KNNzGdc69EMFXcTER7xPyh9GqSgx9ybh'
   defaultCat: 'General'
 };
